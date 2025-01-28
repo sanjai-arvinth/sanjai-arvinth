@@ -12,7 +12,7 @@ I'm a Data Scientist with a passion for AI, Machine Learning and Deep Learning. 
 
 - 🔭 I’m currently working on **Aircraft Simulator using Reinforcement Learning**
 - 🌱 I’m currently learning **Advanced DSA and Data Preprocessing and Data Handling**
-- 👯 I’m looking to collaborate on **Open Source Projects on Data Science adn Case Studies**
+- 👯 I’m looking to collaborate on **Open Source Projects on Data Science and Case Studies**
 - 💬 Ask me about **Data Science, Machine Learning**
 - 📫 How to reach me: sanjaiarvinth.mail@gmail.com
 
@@ -42,9 +42,9 @@ I'm a Data Scientist with a passion for AI, Machine Learning and Deep Learning. 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjai-arvinth&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/god-d-sanjai/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/god-d-sanjai/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaiarvinth.mail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://sites.google.com/view/your-portfolio](https://sites.google.com/view/sanjai-arvinth-eportfolio/home))
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/your-portfolio](https://sites.google.com/view/sanjai-arvinth-eportfolio/home)
 
 ---
 
