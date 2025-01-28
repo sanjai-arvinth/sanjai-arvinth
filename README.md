@@ -1,6 +1,6 @@
 Hi there, I'm Sanjai Arvinth 👋
 
-![GitHub Banner]![github-header-image(2)](https://github.com/user-attachments/assets/5a568582-fb54-48d5-8ff1-f20c23d7c4d6)
+![github-header-image(2)](https://github.com/user-attachments/assets/5a568582-fb54-48d5-8ff1-f20c23d7c4d6)
 
 
 ## 📚 My Education
