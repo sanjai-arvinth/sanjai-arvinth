@@ -1,38 +1,21 @@
-![github-header-image(2)](https://github.com/user-attachments/assets/38e341e2-db11-4681-83e9-79ca01d4fa42)![github-header-image(2)](https://github.com/user-attachments/assets/364ee468-da7c-4fa7-b728-06ae0991f331)### Hi there, I'm Sanjai Arvinth 👋
+Hi there, I'm Sanjai Arvinth 👋
 
 ![GitHub Banner]![github-header-image(2)](https://github.com/user-attachments/assets/5a568582-fb54-48d5-8ff1-f20c23d7c4d6)
 
 
 ## 📚 My Education
-- 🎓 **[Your Degree]** in **[Your Major]** from **[Your University]**
-- 📖 Ongoing learning in **[Relevant Skills or Technologies]**
+- 🎓 **B.Tech** in **Artificial Intelligence and Data Science** from **Karpagam College of Engineering.**
+- 📖 Ongoing learning in **Advanced Machine Learning Models and Deep Learning Techniques**
 
 ## 🚀 About Me
-I'm a Data Scientist with a passion for AI, Machine Learning, and Web Development. I love working on exciting projects involving data analysis and full-stack development.
+I'm a Data Scientist with a passion for AI, Machine Learning and Deep Learning. I love working on exciting projects involving data analysis and domain related topics.
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[New Skills or Technologies]**
-- 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 💬 Ask me about **Data Science, Machine Learning, Web Development**
-- 📫 How to reach me: [Your Email or Social Links]
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🔭 I’m currently working on **Aircraft Simulator using Reinforcement Learning**
+- 🌱 I’m currently learning **Advanced DSA and Data Preprocessing and Data Handling**
+- 👯 I’m looking to collaborate on **Open Source Projects on Data Science adn Case Studies**
+- 💬 Ask me about **Data Science, Machine Learning**
+- 📫 How to reach me: sanjaiarvinth.mail@gmail.com
 
-## 🏆 My Projects
-
-### 1️⃣ **MediConnect**
-- **Description:** Streamlines hospital operations by offering seamless appointment booking, medical record management, and insightful analytics for efficient healthcare delivery.
-- **Technologies Used:** JavaScript
-- **GitHub Repository:** [MediConnect](https://github.com/sanjai-arvinth/MediConnect)
-
-### 2️⃣ **MedAppointBot**
-- **Description:** An AI assistant for hassle-free medical appointment bookings, featuring advanced natural language understanding and personalized recommendations.
-- **Technologies Used:** JavaScript
-- **GitHub Repository:** [MedAppointBot](https://github.com/sanjai-arvinth/MedAppointBot)
-
-### 3️⃣ **Portfolio**
-- **Description:** Showcases innovative solutions and a commitment to excellence in solving complex problems.
-- **Technologies Used:** TypeScript
-- **GitHub Repository:** [Portfolio](https://github.com/sanjai-arvinth/Portfolio)
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -59,8 +42,9 @@ I'm a Data Scientist with a passion for AI, Machine Learning, and Web Developmen
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjai-arvinth&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/god-d-sanjai/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaiarvinth.mail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://sites.google.com/view/your-portfolio](https://sites.google.com/view/sanjai-arvinth-eportfolio/home))
 
 ---
 
